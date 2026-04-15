@@ -143,7 +143,7 @@ gpedit.msc →
 
 ### Phase 2 — PowerShell Automated Fixes (5 STIGs)
 
-The following five STIGs were remediated via a `.ps1` automation script:
+The following five STIGs were remediated via a `[View STIG Report](./Auto-fix.ps1)` automation script:
 
 | STIG ID | Description | Policy Path |
 |---|---|---|
