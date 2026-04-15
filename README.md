@@ -143,8 +143,7 @@ gpedit.msc →
 
 ### Phase 2 — PowerShell Automated Fixes (5 STIGs)
 
-The following five STIGs were remediated via a `[View STIG Report](./Auto-fix.ps1)` automation script:
-
+“The following five STIG findings were remediated using an automated PowerShell script: [View Script](./Auto-fix.ps1)
 | STIG ID | Description | Policy Path |
 |---|---|---|
 | `WN11-AC-000005` | Account lockout duration ≥ 15 min | Account Lockout Policy |
