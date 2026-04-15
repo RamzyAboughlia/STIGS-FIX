@@ -1,4 +1,4 @@
-# 📌 Windows 11 STIG Remediation — Compliance Progression Report
+# 📌 Windows 11 STIG Remediation — Compliance  Report
 
 ## STIG Assessment Information
 
